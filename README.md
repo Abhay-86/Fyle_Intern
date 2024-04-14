@@ -1,31 +1,21 @@
+# GitHub Repositories Listing Page
 
-# Github Repositories listing page
-
-
-Angular 17 single-page application (SPA) that takes a GitHub username as input and displays the public Github repositories belonging to the user.
-
+Welcome to the GitHub Repositories Listing Page! This Angular 17 single-page application (SPA) allows you to input a GitHub username and view the public repositories belonging to that user.
 
 ## Tech Stack
 
 **Client:** Angular, TypeScript, TailwindCSS
 
-
 ## Deployment
 
-See Deployed Site
-
-```bash
-  https://fyle-internship-atul.netlify.app/
-```
-
+Check out the deployed site [here](https://fyle-assignment-70-1.netlify.app/).
 
 ## API Reference
 
-#### Get all Repos
+### Get all Repos
 
 ```http
-  GET /api.github.com/users/${username}/Repos
-```
+GET /api.github.com/users/${username}/repos
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -69,7 +59,7 @@ Install  with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/Atmalviya1/fyle-internship-Atul.git
+  git clone 
 ```
 
 Go to the project directory
@@ -92,62 +82,18 @@ Start the server
 ```
 
 
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  ng test
-```
-Above command will execute the following
-  -> GithubService test
-  -> Repo-list Component tests
-
-
-## Author
-
-- [@Atmalviya1](https://github.com/Atmalviya1)
-
-
-
 
 
 ## 🚀 About Me
 
-# Hey! I'm Atul Malviya 👋
-A software developer and Computer Science Engineering graduate from Jabalpur Engineering College. Currently, I'm gaining valuable experience as a Software Developer Trainee at Opensense Labs. Apart from coding, I've served as the TPO of my college and have a passion for karate, having represented India and won three national gold medals. Let's connect and code together! 🚀
+# Hey! I'm Abhay Singh Patel 👋
+I am pursuing a B-tech in Computer Science at IIT Bhilai, I am highly motivated and enthusiastic about starting my career as a software developer. I have a strong foundation in computer science principles, including data structures and algorithms, and I am proficient in programming languages such as Java, Python and C++
 
-Reach me at [email](mailto:atulmalviyawork@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/atul-malviya/).
+## Contact
 
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-malviya/)
+Reach me at [email](mailto:abhaysinghpatel690@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/abhay-singh-patel-04b30b209/).
 
 
 
-## FAQ
 
-#### Question :-  Am, i Available to join.?
-
-Yes, i'm Available for next 6 Months to join
-
-
-
-## 🛠 Skills
-Javascript, TypeScript, SQL, MERN/MEAN, GIt, Bit Bucket, PHP
-
-
-## 
-👩‍💻 I'm currently working on MERN & MEAN Stack
-
-🧠 I'm currently learning Node.js
-
-📫 How to reach me...-> https://www.linkedin.com/in/atul-malviya/
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at atulmalviyawork@gmail.com
 
